@@ -1,0 +1,58 @@
+/* CSS Document */
+ul,li,dl,ol{list-style:none;}
+.d_right{float:right;}
+.d_left{float:left;}
+.q_player{
+	top: 10px;
+    left: 22px;
+    font:normal 14px 'Microsoft YaHei'; 
+    font-weight: bold;
+	position: absolute;
+    color: rgb(167, 167, 168);
+}
+.boss_message{
+    left:80px;
+    font:bold 18px 'Microsoft YaHei';
+    position: absolute;
+    color:gray;
+}
+.q_qun{width:140px;border-radius: 5px;border: 3px solid #79bc1f;height:20px;float:left;margin:0 35px 0 0}
+.boss_test{width:100px;border-radius: 5px;height:20px;float:left;margin:0 35px 5px 5px}
+.bcon{ width:930px;border-radius: 5px;box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.12), 0 0 10px 2px rgba(0, 0, 0, 0.24);position: absolute;top:330px;left:36px;}
+.bcon h1{ border-bottom:1px solid #eee; padding:0 10px;}
+.bcon h1 b{ font:bold 14px/40px '宋体'; border-top:2px solid #3492D1; padding:0 8px; margin-top:-1px; display:inline-block;}
+
+.list_lh{ height:40px; overflow:hidden;}
+.list_lh li{margin: 7px 0 0 0;text-align:center;height:40px}
+.list_lh li.lieven{}
+.list_lh li a{
+    font:normal 14px 'Microsoft YaHei'; 
+    color: rgb(167, 167, 168);
+    text-decoration: none;
+	padding-bottom:2px;
+}
+
+.list_lh li a:hover{ color:#79bc1f; text-decoration:none;}
+
+.list_boss{ height:55px; overflow:hidden;}
+.list_boss li{margin: 7px 0 0 0;text-align:center;height:40px}
+.list_boss li.lieven{}
+.list_boss li a{
+    font:normal 14px 'Microsoft YaHei';
+    color: rgb(167, 167, 168);
+    text-decoration: none;
+    padding-bottom:2px;
+}
+
+/*.list_boss li a:hover{ color:#79bc1f; text-decoration:none;}*/
+/*.boss{ width:930px;border-radius: 5px;box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.12), 0 0 10px 2px rgba(0, 0, 0, 0.24);position: absolute;top:380px;left:36px;}*/
+/*.boss_headpic { width:70px; height:70px; border-radius:100%; margin: 20px 0 0 90px;}*/
+/*.boss_head_box {  text-align:center; width:80px; display:block; padding-top:10px;  }*/
+
+.Top_Record{}
+.maquee{ height:250px;}
+.topRec_List ul{ width:100%; height:250px;}
+.topRec_List li{ list-style:none;width:95%; height:74px; line-height:74px;font-size:5px; }
+/*.topRec_List li:nth-child(2n){ background:#077cd0}*/
+.topRec_List li div{float: left;color:darkgray;}
+.boss_img { width:35px; height:35px; border-radius:100%; margin: 0px 0 0 0px;}

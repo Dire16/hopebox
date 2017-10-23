@@ -1,0 +1,55 @@
+div.content{
+    font-family:"微软雅黑"!important;
+    height:636px;
+    overflow: hidden;
+    width:900px;
+    float:left;
+    position:initial;
+    padding:8px;
+    border: solid 1px;
+}
+.payimg1{
+    left:0px;
+    top:356px;
+    width: 91px;
+    height: 130px;
+    overflow: hidden;
+    position: absolute;
+    border: solid 1px;
+}
+.payimg2{
+     left:0px;
+     top:490px;
+     width: 91px;
+     height: 130px;
+     overflow: hidden;
+     position: absolute;
+     border: solid 1px;
+ }
+.boss_tool{
+    left:95px;
+    top:356px;
+    width: 240px;
+    height: 270px;
+    overflow: hidden;
+    position: absolute;
+    border: solid 1px;
+}
+
+.eat{
+    top:24px;
+}
+.talk{
+    letter-spacing:2px;
+    left:335px;
+    top:24px;
+    width: 565px;
+    height: 612px;
+    overflow: hidden;
+    position: absolute;
+    border: solid 1px;
+
+}
+.tie_title{
+    color:rgba(255, 102, 0, 1);
+}
